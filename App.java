@@ -1,1 +1,1 @@
-helloworld
+public class App {}
